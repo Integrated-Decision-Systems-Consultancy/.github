@@ -1,8 +1,11 @@
 ## Integrated Decision Systems Consultancy Pte Ltd
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.idsc.com.sg)
+[![Contact Us](https://img.shields.io/badge/Visit-Website-blue)](https://www.idsc.com.sg/contact-us)
 
 <div align="center">
-  <img src="https://www.idsc.com.sg/static/media/IDSC_logo.d02ed6e742072c6bcddd.png" alt="Image Alt Text" width="200">
+  <a href="https://www.idsc.com.sg/">
+    <img src="https://www.idsc.com.sg/static/media/IDSC_logo.d02ed6e742072c6bcddd.png" alt="Image Alt Text" width="200">
+  </a>
 </div>
 
 Integrated Decision Systems Consultancy (IDSC) specialises in the provision of advanced analytics insights to business decision makers through consultancy and other augmented intelligence services since 1996.
