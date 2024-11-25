@@ -1,6 +1,7 @@
 ## Integrated Decision Systems Consultancy Pte Ltd
-[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.idsc.com.sg)
-[![Contact Us](https://img.shields.io/badge/Contact-Us-blue)](https://www.idsc.com.sg/contact-us)
+<a href="https://www.idsc.com.sg/contact-us">
+    <img src="https://img.shields.io/badge/Contact-Us-blue" alt="Contact Us">
+</a>
 
 <div align="center">
   <a href="https://www.idsc.com.sg/">
